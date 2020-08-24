@@ -1,6 +1,14 @@
 # BobbyPin
-Cloud application to trade new and used items
-######### My Inspiration
+Cloud application to trade new and used items<br/>
+<br/>
+##Table of content<br/>
+1.Inspiration<br/>
+2.User stories<br/>
+3.Use-cases<br/>
+4.Use-case diagram link<br/>
+5.Requirements<br/>
+<br/>
+My Inspiration<br/>
 I was inspired to buid this application because I love shopping and I hate spending money, so I wanted a platform where I coulduse to trade items I already had in my possesion. I was also inspired by the TikTok video circulating the internet of a girl on a mission to trade a bobby pin for a house. 
 
 
