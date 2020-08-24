@@ -196,3 +196,57 @@ I was inspired to buid this application because I love shopping and I hate spend
 	
 <br/>
 <br/>
+
+|Test Priority: Med|
+|Title: Verify a password change|
+|Description: Ensure that if a user forgets their password they are able to reset their password.|
+
+|1.3 Unit Test Change Profile|
+|----------------------|
+|Req ID: 3.1|
+|Test Priority: low|
+|Title: Update user demographics|
+|Description: ensure that the data is up-to-date when a user decides to modify it.|
+
+|1.4 Unit Test Post Is Live|
+|----------------------|
+|Req ID: 4.1|
+|Test Priority: high|
+|Title: Post is live|
+|Description: Verify that any item that a user post is visible to other users. |
+
+|1.5 Unit Test New Conversation |
+|----------------------|
+|Req ID: 5.1|
+|Test Priority: Med|
+|Title: Messaging |
+|Description: Ensure the user can create a new conversation with another user|
+
+|1.6 Unit Test Rating Users|
+|----------------------|
+|Req ID: 6.1|
+|Test Priority: Low|
+|Title: Verify the rating feature|
+|Description: Ensure the rating feature works when a user is asked to rate a user.|
+
+|1.7 Unit Test Change Password|
+|----------------------|
+|Req ID: 7.1|
+|Test Priority: Med|
+|Title: Verify a user can logout|
+|Description: Ensure a user is logouted if they click logout |
+
+
+|1.8 Unit Test Change Password|
+|----------------------|
+|Req ID: 8.1|
+|Test Priority: Low|
+|Title: Verify the application can be shared|
+|Description: Does the button to share the application work when a user shares it with their friends|
+
+|1.9 Unit Test Change Password|
+|----------------------|
+|Req ID: 9.1|
+|Test Priority: low|
+|Title: Verify qualifications|
+|Description: Test to see if all features can go back to the homepage without extra steps. test usability|
