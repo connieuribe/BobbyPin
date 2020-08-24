@@ -155,7 +155,7 @@ I was inspired to buid this application because I love shopping and I hate spend
   * the user can scroll through the results.
 	
 **Use-Case Diagram**
-[link to Diagram!](https://drive.google.com/file/d/1ummeJVcx5IyfRwJ9z19i3AaOEwfzJHYj/view?usp=sharing)
+[link to Diagram!](https://drive.google.com/file/d/1ummeJVcx5IyfRwJ9z19i3AaOEwfzJHYj/view?usp=sharing)<br/>
 **Requirements (List)**
 1. Login<br/>
 1.1 The system shall be able to check if password and email match<br/>
@@ -190,7 +190,7 @@ I was inspired to buid this application because I love shopping and I hate spend
 8.2 the system shall be able to open in any device<br/>
 8.3 the system shall be user friendly<br/>
 9. qualifications<br/>
-9.1	The system shall be user friendly<br/>
+9.1The system shall be user friendly<br/>
 9.2 the system shall be used by non-technical users, and this must be simple and easy to use<br/>
 9.3 the system shall require little training<br/>
 	
