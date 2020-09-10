@@ -108,8 +108,8 @@ The concept of this application is to have a platform for people to trade items 
   	* the user will enter the email linked to their account
   	* the system will email the user a link to reset the password
   	* the user will click on the link and reset their password
- 	 * the user will be directed to try logging in again with the new password
- 	 * the user will be taken to their account if the password and email match
+ 	* the user will be directed to try logging in again with the new password
+ 	* the user will be taken to their account if the password and email match
 7.edit personal information 
  	 * the user will click on my profile
   	* the system will take the user to their profile 
