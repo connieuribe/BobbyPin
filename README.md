@@ -29,6 +29,7 @@ The concept of this application is to have a platform for people to trade items 
 
 ## Database Diagram
 [(back to top)](#table-of-contents)
+![Database Diagram](DatabaseDiagram.png)
 <br/>
 
 
