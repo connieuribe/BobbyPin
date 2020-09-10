@@ -1,18 +1,43 @@
 # BobbyPin
-Cloud application to trade new and used items<br/>
-<br/>
-### Table of content<br/>
-1.Inspiration<br/>
-2.User stories<br/>
-3.Use-cases<br/>
-4.Use-case diagram link<br/>
-5.Requirements<br/>
-<br/>
-My Inspiration<br/>
-I was inspired to buid this application because I love shopping and I hate spending money, so I wanted a platform where I coulduse to trade items I already had in my possesion. I was also inspired by the TikTok video circulating the internet of a girl on a mission to trade a bobby pin for a house. 
+Cloud application to trade new and used items
 
 
-**User Stories**
+### Table of contents
+|Table|
+|---------------------------|
+| [Inspiration](#inspiration)|
+| [Concept](#concept)  |
+| [Database Diagram](#database-diagram) |
+| [Entity Relationship Diagram](#entity-relationship-diagram) |
+| [User stories](#user-stories)  |
+| [Use-cases](#use-cases)  |
+| [Use-case diagram](#use-case-diagram)  |
+| [Requirements](#requirements) |
+
+
+## Inspiration
+[(back to top)](#table-of-contents)
+<br/>
+I was inspired to build this application because I love shopping and I hate spending money, so I wanted a platform where I could use to trade items I already had in my possession. I was also inspired by the TikTok video circulating the internet of a girl on a mission to trade a bobby pin for a house.
+
+
+## Concept
+[(back to top)](#table-of-contents)
+<br/>
+The concept of this application is to have a platform for people to trade items without having to spend any money. This application will be reliable because you can have direct contact with other users without having to use a third-party service. This allows for privacy and the protections of personal information. The application also allows for users to give a rating to other users to have more reliable trades and therefore make better trading decisions.
+
+
+## Database Diagram
+[(back to top)](#table-of-contents)
+<br/>
+
+
+## Entity Relationship Diagram
+[(back to top)](#table-of-contents)
+<br/>
+
+## User Stories
+[(back to top)](#table-of-contents)
 
 1. As a user, I want to invite my friends So that we can enjoy this service together
 	
@@ -50,7 +75,8 @@ I was inspired to buid this application because I love shopping and I hate spend
 	
 18. As a user, I want to search for items, so I filter out what I do not want.
 	
-**Use-Case(s)**	
+## Use-Cases
+[(back to top)](#table-of-contents)
 1.  A user invites friends to the application
   * the user clicks on the share button
   * the user enters their friend's information
@@ -154,9 +180,12 @@ I was inspired to buid this application because I love shopping and I hate spend
   * the system will display the results
   * the user can scroll through the results.
 	
-**Use-Case Diagram**
+## Use Case Diagram
+[(back to top)](#table-of-contents)
 [link to Diagram!](https://drive.google.com/file/d/1ummeJVcx5IyfRwJ9z19i3AaOEwfzJHYj/view?usp=sharing)<br/>
-**Requirements (List)**
+
+## Requirements
+[(back to top)](#table-of-contents)
 1. Login<br/>
 1.1 The system shall be able to check if password and email match<br/>
 1.2 The system shall be able to allow the user to recover a password or email<br/>
@@ -250,3 +279,5 @@ I was inspired to buid this application because I love shopping and I hate spend
 |Test Priority: low|
 |Title: Verify qualifications|
 |Description: Test to see if all features can go back to the homepage without extra steps. test usability|
+
+
