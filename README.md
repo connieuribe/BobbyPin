@@ -7,7 +7,6 @@ Cloud application to trade new and used items
 |---------------------------|
 | [Inspiration](#inspiration)|
 | [Concept](#concept)  |
-| [Database Diagram](#database-diagram) |
 | [Entity Relationship Diagram](#entity-relationship-diagram) |
 | [User stories](#user-stories)  |
 | [Use-cases](#use-cases)  |
@@ -30,14 +29,9 @@ I was inspired to build this application because I love shopping and I hate spen
 The concept of this application is to have a platform for people to trade items without having to spend any money. This application will be reliable because you can have direct contact with other users without having to use a third-party service. This allows for privacy and the protections of personal information. The application also allows for users to give a rating to other users to have more reliable trades and therefore make better trading decisions.
 
 
-## Database Diagram
-[(back to top)](#table-of-contents)
-![Database Diagram](DatabaseDiagram.png)
-<br/>
-
-
 ## Entity Relationship Diagram
 [(back to top)](#table-of-contents)
+![Database Diagram](DatabaseDiagram.png)
 <br/>
 
 ## User Stories
