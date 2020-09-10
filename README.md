@@ -13,6 +13,7 @@ Cloud application to trade new and used items
 | [Use-cases](#use-cases)  |
 | [Use-case diagram](#use-case-diagram)  |
 | [Requirements](#requirements) |
+| [Wire Frame](#wire-frame)|
 
 
 ## Inspiration
@@ -281,4 +282,8 @@ The concept of this application is to have a platform for people to trade items 
 |Title: Verify qualifications|
 |Description: Test to see if all features can go back to the homepage without extra steps. test usability|
 
+## Wire Frame
+[(back to top)](#table-of-contents)
+![WireFrame1](wireframe1.png)
+![WireFrame2](wireframe2.png)
 
