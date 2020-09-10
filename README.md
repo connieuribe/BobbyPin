@@ -96,13 +96,13 @@ The concept of this application is to have a platform for people to trade items 
   	* the link lets the system authenticate the user
 4. upload a profile picture photo and add my name to the account
   	* The user clicks on my account
- 	 * the user clicks on update my account
- 	 * the user updates his picture or name
- 	 * the user clicks on save changes
- 	 * the system updates the changes made 
+ 	* the user clicks on update my account
+ 	* the user updates his picture or name
+ 	* the user clicks on save changes
+ 	* the system updates the changes made 
 5. log into the application by entering an email and password
- 	 * A registered user can enter an email and password to the home page
- 	 * The system will take the user to their account if the user exists
+ 	* A registered user can enter an email and password to the home page
+ 	* The system will take the user to their account if the user exists
 6.  reset my password if forgotten password
   	* The user will click on a link to reset password
   	* the user will enter the email linked to their account
@@ -111,12 +111,12 @@ The concept of this application is to have a platform for people to trade items 
  	* the user will be directed to try logging in again with the new password
  	* the user will be taken to their account if the password and email match
 7.edit personal information 
- 	 * the user will click on my profile
+ 	* the user will click on my profile
   	* the system will take the user to their profile 
-	  * the user will click on update my profile
-	  * the user will update any information necessary
-	  * the user will click save changes
-	  * the system will save the changes
+	* the user will click on update my profile
+	* the user will update any information necessary
+	* the user will click save changes
+	* the system will save the changes
 8. update my email and receive email confirmation
   	* The user will update their email by clicking on my profile
   	* the system will take the user to their profile
@@ -126,28 +126,28 @@ The concept of this application is to have a platform for people to trade items 
  	* the user will click save changes.
   	* If the password is correct, the system will save the changes and send an email to both emails notifying of the change in email.
 9. logout of the application from my account
- 	 * The user will click on my account
+ 	* The user will click on my account
   	* the user will click on logout
- 	 * the system will securely log the user out
- 	 * the system will take the user to the login page
+ 	* the system will securely log the user out
+ 	* the system will take the user to the login page
 10. post an item
- 	 * The user will click on the add icon
- 	 * the system will take the user to the add post page
+ 	* The user will click on the add icon
+ 	* the system will take the user to the add post page
   	* the user will fill out all the information
   	* the user will click review
- 	 * the system will show the user a preview of the post
- 	 * the user can make changes or post 
+ 	* the system will show the user a preview of the post
+ 	* the user can make changes or post 
   	* the user will post the item to the public
 11. change the status of my post
   	* The user will be able to click change status of their post
- 	 * the user will change the status
- 	 * the user will click save changes
- 	 * the system will ask for confirmation
- 	 * the system will change the color of the post and display the current status
+ 	* the user will change the status
+ 	* the user will click save changes
+ 	* the system will ask for confirmation
+ 	* the system will change the color of the post and display the current status
 12. edit post
  	 * the user will click on edit my post
-	  * the system will load the edit page
-	  * the user will make the changes
+	 * the system will load the edit page
+	 * the user will make the changes
  	 * the user will click save changes
  	 * the system will update the changes
  	 * the system will display to post with the current changes.
