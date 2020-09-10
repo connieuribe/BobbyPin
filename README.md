@@ -291,4 +291,4 @@ The concept of this application is to have a platform for people to trade items 
 
 ## Prototype
 [(back to top)](#table-of-contents)
-![Prototype](Bobby Pin.pdf)
+![Prototype_Visual](BobbyPin.pdf)
