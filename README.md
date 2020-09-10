@@ -284,6 +284,6 @@ The concept of this application is to have a platform for people to trade items 
 
 ## Wire Frame
 [(back to top)](#table-of-contents)
-![Wire Frames](Wire_Frame1.png)
-![Wire Frames](Wire_Frame2.png)
+![Wire Frames](Wire_Frame1.PNG)
+![Wire Frames](Wire_Frame2.PNG)
 
