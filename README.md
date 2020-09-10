@@ -120,10 +120,10 @@ The concept of this application is to have a platform for people to trade items 
 8. update my email and receive email confirmation
   	* The user will update their email by clicking on my profile
   	* the system will take the user to their profile
- 	 * the user will click update my profile
- 	 * the user will update their email
- 	 * The user will be required to enter their password in order to successfully change their email.
- 	 * the user will click save changes.
+ 	* the user will click update my profile
+ 	* the user will update their email
+ 	* The user will be required to enter their password in order to successfully change their email.
+ 	* the user will click save changes.
   	* If the password is correct, the system will save the changes and send an email to both emails notifying of the change in email.
 9. logout of the application from my account
  	 * The user will click on my account
