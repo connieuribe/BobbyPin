@@ -185,7 +185,7 @@ The concept of this application is to have a platform for people to trade items 
 	
 ## Use Case Diagram
 [(back to top)](#table-of-contents)
-![Use_Case_Diagram](use-case-diagram.jpg)<br/>
+![Use_Case_Diagram](Use-case-diagram.jpg)<br/>
 
 ## Requirements
 [(back to top)](#table-of-contents)
