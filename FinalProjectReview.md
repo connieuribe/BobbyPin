@@ -13,7 +13,7 @@
 ##### Maintenace
   Refer to the chart
   
-  [Place holder]
+  ![sdlc](sdlc.jpg)<br/>
   
   
   ###### Lessons Leanred
